@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197183033570",
+    "project_id": "seatsmart-358d6",
+    "storage_bucket": "seatsmart-358d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197183033570:android:ec484e5c9470f70a494ebb",
+        "android_client_info": {
+          "package_name": "com.example.seatsmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIk2wi06B1sOkDTyf8XJi3-aJbI-sydtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
